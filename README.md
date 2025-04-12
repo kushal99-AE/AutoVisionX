@@ -1,12 +1,15 @@
 # AutoVisionX
 AI-powered vision based ADAS for real time object detection, distance estimation, and lane tracking deployed using a cameras (stereo) (Front Main Camera) & on board computer like Jetson devices. Features a flask based dashboard for real time feed visualization and UI for Triggers, Alerts &amp; Other features.
 
-📌 Features:
+📌 Features Planned:
 - ✅ Real-time Object Detection (Vehicles, Pedestrians, Traffic Signs). 
 - ✅ Distance Estimation for Front Vehicles.
 - ✅ Lane Detection & Tracking. 
 - ✅ Dashboard with Live Feed, Lane Markings, Object Segmentation & Control Triggers (Steering Trigger, Brake Trigger(To maintain Adaptive Cruise Speed), Auto High Beam Trigger).
 - ✅ Alerts for Lane Departure Warning, Front Collision Warning etc.,
+
+📌 Current Status - Working On:
+- Lane Detection using OpenCV
 
 🚀 Future Additions:
 - 🔹 OBD Port Integration to -
